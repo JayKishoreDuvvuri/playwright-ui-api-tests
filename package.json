@@ -1,0 +1,18 @@
+{
+  "name": "playwright-automation-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --project=Chrome --reporter=html && npx playwright show-report",
+    "test:ui": "npx playwright test TC_01_ui_e2e.test.js --project=Chrome",
+    "test:api": "npx playwright test TC_01_api_e2e.test.js --project=Chrome",
+    "test:ci": "npx playwright test --project=Chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1"
+  }
+}

@@ -98,5 +98,6 @@ npx playwright show-report
 #### GitHub Actions
 
 ```bash
-Pipelines: https://github.com/JayKishoreDuvvuri/Playwright-ReactJS/actions/runs/15362829799
+Pipelines: https://github.com/JayKishoreDuvvuri/playwright-ui-api-tests/actions
+Pipeline-Run: https://github.com/JayKishoreDuvvuri/playwright-ui-api-tests/actions/runs/16522663745
 ```

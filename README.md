@@ -80,19 +80,19 @@ Run Tests Locally
 ```bash
 npm run test:ui  - Run only the UI tests TC_01_ui_e2e.test.js 
 npm run test:api - Run only the test TC_01_api_e2e.test.js 
-npm run test - Runs all the tests both UI and API and prints test-report locally.
+npm run test     - Runs all the tests both UI and API and prints test-report locally
 ```
 
 Run tests on CI - GitHub Actions
 
 ```bash
-npm run test:ci - For tests headless on GitHub Actions (CI)
+npm run test:ci - For tests on GitHub Actions (CI)
 ```
 
 #### Playwright Test Report
 
 ```bash
-Html-test-report : npm run test
+npx playwright show-report   
 ```
 
 #### GitHub Actions

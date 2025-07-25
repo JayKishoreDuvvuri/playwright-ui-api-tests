@@ -1,4 +1,5 @@
-/* Scenario:  Playwright API Tests for Thinking Tester Contact List App
+/* Scenario: API tests
+Playwright API Tests for Thinking Tester Contact List App
 
 Scenario Description: 
 Test Case 1: User Login

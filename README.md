@@ -62,7 +62,7 @@ Install the dependencies and devDependencies to run the test.
 Clone the repository
 
 ```bash
-GitHub: git clone https://github.com/JayKishoreDuvvuri/playwright-ui-api-tests.git
+git clone https://github.com/JayKishoreDuvvuri/playwright-ui-api-tests.git
 ```
 
 Install dependencies
